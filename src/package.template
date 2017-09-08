@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package>
+    <name>Mash2_Cobby</name>
+    <version>1.26.1.1</version>
+    <stability>stable</stability>
+    <license>Lizenz</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>cobby</summary>
+    <description>cobby</description>
+    <notes>cobby</notes>
+    <authors>
+        <author>
+            <name>Eduard Giesbrecht</name>
+            <user>eduard</user>
+            <email>eduard.giesbrecht@mash2.com</email>
+        </author>
+    </authors>
+    <date>2015-04-08</date>
+    <time>08:39:19</time>
+    <contents>
+        <target name="magedesign">
+        </target>
+        <target name="mageetc">
+        </target>
+        <target name="magelocale">
+        </target>
+        <target name="magecommunity">
+        </target>
+    </contents>
+    <compatible/>
+    <dependencies>
+        <required>
+            <php>
+                <min>5.2.0</min>
+                <max>6.0.0</max>
+            </php>
+        </required>
+    </dependencies>
+</package>
