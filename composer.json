@@ -1,19 +1,8 @@
 {
 	"name" : "slavkodick/cm1",
 	"description" : "This extension for Magento provides a direct integration of the cobby management methods to your Magento shop.",
-	"version" : "1.0.5",
+	"version" : "1.0.6",
 	"type" : "magento-module",
-	"require" : {
-		"magento-hackathon/magento-composer-installer" : "~3.0",
-		"aydin-hassan/magento-core-composer-installer" : "~1.2",
-		"firegento/magento" : "~1.9.3.1"
-	},
-	"extra": {
-		"magento-root-dir": "./vendor/firegento/magento",
-		"auto-append-gitignore": false,
-		"magento-deploystrategy": "symlink",
-		"magento-force": true
-	},
 	"license" : "Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.",
 	"autoload" : {
 		"files" : [
